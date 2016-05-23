@@ -6,7 +6,8 @@ Some of the examples are based on [Bluetooth LE examples for sensorTag][3] by To
 
 ## Installation
 
-See [prerequisites][4] and [install][5].
+* [prerequisites][4] 
+* [install][5]
 
 ## Getting Started
 

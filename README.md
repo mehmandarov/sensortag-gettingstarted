@@ -1,6 +1,8 @@
 # MySensorTag
 
-Exmaples using Node.js library [node-sensortag][1] for [TI SensorTag][2]. Some of the examples are based on [Bluetooth LE examples for sensorTag][3] by Tom Igoe.
+Exmaples using Node.js library [node-sensortag][1] for [TI SensorTag][2]. 
+
+Some of the examples are based on [Bluetooth LE examples for sensorTag][3] by Tom Igoe.
 
 ## Installation
 

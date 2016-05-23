@@ -19,9 +19,15 @@ Sensortag library functions are asynchronous. There is a sequence you need to fo
 4. Turn on notifications for the sensor
 5. Listen for changes from the sensortag
 
+## Documentation
+
+Full package documentation can be found on [node-sensortag homepage][6].
+
+
 
 [1]: https://github.com/sandeepmistry/node-sensortag
 [2]: http://www.ti.com/ww/en/wireless_connectivity/sensortag2015/
 [3]: https://github.com/tigoe/BluetoothLE-Examples/tree/master/sensorTag
 [4]: https://github.com/sandeepmistry/node-sensortag#prerequisites
 [5]: https://github.com/sandeepmistry/node-sensortag#install
+[6]: https://github.com/sandeepmistry/node-sensortag#usage

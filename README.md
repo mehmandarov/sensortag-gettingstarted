@@ -10,11 +10,11 @@ See [prerequisites][4] and [install][5].
 
 Sensortag library functions are asynchronous. There is a sequence you need to follow in order to successfully read data from a tag:
 
-# Discover the tag
-# Connect to and set up the tag
-# Turn on the sensor you want to use (in this case, accelerometer)
-# Turn on notifications for the sensor
-# Listen for changes from the sensortag
+1. Discover the tag
+2. Connect to and set up the tag
+3. Turn on the sensor you want to use (in this case, accelerometer)
+4. Turn on notifications for the sensor
+5. Listen for changes from the sensortag
 
 
 [1]: https://github.com/sandeepmistry/node-sensortag

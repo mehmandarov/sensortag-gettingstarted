@@ -60,8 +60,15 @@ sensor.then(function(tag) {
 // A simple example of an act on the irTemperature sensor.
 sensor.then(function(tag) {
   tag.on("irTemperatureChange", function(objectTemp, ambientTemp) {
-    if(objectTemp > 33) {
+    if(objectTemp > 25) {
       log("You're so hot");
     }
   })
+});
+
+//------------------------------------------------------------------------------
+// Configure periods for sensor reads. The registered listeners will be invoked
+// with the specified interval.
+sensor.then(function(tag) {
+  tag.setIrTemperaturePeriod(3000, log);
 });

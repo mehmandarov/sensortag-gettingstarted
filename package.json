@@ -1,0 +1,27 @@
+{
+  "name": "sensortag-gettingstarted",
+  "version": "1.0.0",
+  "description": "An example of how to use the Sandeep Mistry's TI SensorTag library.",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmandarov/sensortag-gettingstarted.git"
+  },
+  "dependencies": {
+    "sensortag": "1.2.2"
+  },
+  "keywords": [
+    "sensortag",
+    "ti",
+    "bluetooth"
+  ],
+  "author": "Computas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehmandarov/sensortag-gettingstarted/issues"
+  },
+  "homepage": "https://github.com/mehmandarov/sensortag-gettingstarted#readme"
+}

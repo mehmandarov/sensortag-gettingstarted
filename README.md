@@ -8,6 +8,7 @@ Some of the examples are based on [Bluetooth LE examples for sensorTag][3] by To
 
 * [Prerequisites][4] 
 * [Install][5]
+* [Upgrade NodeJS via NPM][8]
 * [Raspberry Pi requirements][7] Note that you simply need the bluetooth libraries, not the node-RED specific stuff.
 
 ## Getting Started
@@ -32,3 +33,4 @@ Full package documentation can be found on [node-sensortag homepage][6].
 [5]: https://github.com/sandeepmistry/node-sensortag#install
 [6]: https://github.com/sandeepmistry/node-sensortag#usage
 [7]: https://www.npmjs.com/package/node-red-node-sensortag
+[8]: https://davidwalsh.name/upgrade-nodejs

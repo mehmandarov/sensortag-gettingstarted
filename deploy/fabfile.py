@@ -17,7 +17,7 @@ logging.info('Raspberry Pi: %s', raspberry_ip)
 
 env.hosts = [raspberry_ip]
 env.user = 'pi'
-env.password = 'raspberry'
+env.password = 'WelcometoCX01'
 
 
 def test():
